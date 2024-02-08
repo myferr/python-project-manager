@@ -15,8 +15,6 @@ To install **PPM** using Git open your terminal / command line and go to your de
 git clone https://github.com/myferr/python-project-manager/
 ```
 
-After that go to the `src` directory and use the following command: `python finish.py`! That will let you use `python ppm.py` anywhere in your terminal.
-
 ## A Guide to PPM arguments
 
 When no arguments are given this error will occur
