@@ -19,7 +19,7 @@ git clone https://github.com/myferr/python-project-manager/
 
 When no arguments are given this error will occur
 
-<img src="images/Pasted image 20240208013432.png">
+<img src="../images/Pasted image 20240208013432.png">
 
 This is because arguments are necessary!
 
@@ -36,7 +36,7 @@ When you run the command `python ppm.py setup` you'll be prompted the **PPM Setu
 ### *ARG:* About
 
 When `python ppm.py about` is ran you're prompted with this:
-<img src="images/Pasted image 20240208030208.png">
+<img src="../images/Pasted image 20240208030208.png">
 ### *ARG:* Help
 
 When you run `python ppm.py help` you're prompted with a link to this README
@@ -63,7 +63,7 @@ Replace `{PACKAGE/MODULE NAME}` with the Python package/module name you want to 
 
 ## A Guide to PPM Setup
 
-<img src="Pasted image 20240208052658.png">
+<img src="../images/Pasted image 20240208052658.png">
 > PPM Setup menu
 
 There are three project types.
