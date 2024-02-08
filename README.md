@@ -9,7 +9,7 @@ There are three different kinds of projects in the **PPM Setup Menu**
 * `github-project`
 * `personal-project`
 
-![[images/Pasted image 20240208013335.png]]
+<img src="images/Pasted image 20240208013335.png">
 
 # Arguments
 
@@ -31,7 +31,7 @@ When you run the command `python ppm.py setup` you'll be prompted the **PPM Setu
 ### *ARG:* About
 
 When `python ppm.py about` is ran you're prompted with this:
-![[images/Pasted image 20240208030208.png]]
+<img src="images/Pasted image 20240208030208.png">
 ### *ARG:* Help
 
 When you run `python ppm.py help` you're prompted with a link to this README
