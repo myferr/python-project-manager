@@ -22,6 +22,7 @@ After that go to the `src` directory and use the following command: `python fini
 When no arguments are given this error will occur
 
 <img src="images/Pasted image 20240208013432.png">
+
 This is because arguments are necessary!
 
 All **PPM** list of arguments:
