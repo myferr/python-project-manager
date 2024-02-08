@@ -15,7 +15,7 @@ There are three different kinds of projects in the **PPM Setup Menu**
 
 When no arguments are given this error will occur
 
-![[./images/Pasted image 20240208013432.png]]
+<img src="images/Pasted image 20240208013432.png">
 This is because arguments are necessary!
 
 All **PPM** list of arguments:
