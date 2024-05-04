@@ -1,3 +1,6 @@
+# DISCLAIMER
+This project is outdated and has been revamped to [here](https://github.com/myferr/ppm-2.0/)
+
 # Python Project Manager
 
 > [How to install..](docs/Documentation.md)
